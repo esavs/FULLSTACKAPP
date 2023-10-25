@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-backend",
+  "version": "1.0.0",
+  "description": "This is a backend application built on nodejs framework, mysqlserver, and express server",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mysql"
+  ],
+  "author": "Eric",
+  "license": "ISC"
+}
